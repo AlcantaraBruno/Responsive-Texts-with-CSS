@@ -1,5 +1,5 @@
-# On-Screen Typing Animation
- Responsive Texts with CSS (Viewport Units, min / max)
+# Responsive Texts with CSS
+Responsive Texts with CSS (Viewport Units, min / max)
  
 ## Available Scripts
 
